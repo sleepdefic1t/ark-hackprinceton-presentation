@@ -6,12 +6,9 @@
     body {
       position: aboslute;
       top: 0px; 
-      font-size: 32px;
-      color: #f9f9f9;
-    }
-    h1 {
+      font-size: 24px;
+      color: #ecf0f1;
       text-align: center;
-      background-color: black;
     }
   </style>
   </head>
