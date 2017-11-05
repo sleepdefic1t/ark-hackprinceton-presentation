@@ -1,11 +1,9 @@
 ---?image=/img/ama-iot.png&size=auto 90%
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
-body {font-size: 32px;}
-h1   {color: #393939;}
+body {padding: 1px; font-size: 32px; color: #393939;}
 </style>
 </head>
 <body>
