@@ -11,6 +11,8 @@
 ---?image=/img/blockchain.png&size=auto 90%
 
 # The Blockchain
+## What is it
+### How Does it work
 
 
 ---?image=/img/decentralized.png&size=auto 90%
@@ -35,5 +37,5 @@
 
 ---?image=/img/ship.png&size=auto 90%
 
+<span style="margin-top: 0px; font-family: Helvetica Neue; font-weight: bold; background-color: rgba(0,0,0, 0.5); color: #ecf0f1; font-size: 64px;"><span>Presented by Chris & Simon</span>!
 
-# Presented by Chris & Simon
