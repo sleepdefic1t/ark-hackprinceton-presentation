@@ -1,4 +1,4 @@
----?image=/img/ama-iot.png
+---?image=/img/ama-iot.png&size=auto
 
 @title[Ark-IoT: HackPrinceton]
 
