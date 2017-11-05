@@ -1,4 +1,4 @@
----?image=/img/ama-iot.png&size=auto
+---?image=/img/ama-iot.png&size=auto 80%
 
 @title[Ark-IoT: HackPrinceton]
 
