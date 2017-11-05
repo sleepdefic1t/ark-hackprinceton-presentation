@@ -1,8 +1,17 @@
 ---?image=/img/ama-iot.png&size=auto 90%
 
-# Ark-IoT: HackPrinceton
-theme : moon
-## Ark-IoT: HackPrinceton
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {font-size: 32px;}
+h1   {color: #393939;}
+</style>
+</head>
+<body>
+<h1>Ark-IoT: HackPrinceton</h1>
+</body>
+</html>
 
 ---?image=/img/opensource.png
 
