@@ -4,10 +4,8 @@
   <head>
   <style>
     body {
-      position: aboslute;
-      top: 0px; 
       font-size: 24px;
-      color: #ecf0f1;
+      color: white;
       text-align: center;
     }
   </style>
