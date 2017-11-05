@@ -1,6 +1,6 @@
----?image=/img/ama-iot.png&size=auto 80%
+---?image=/img/ama-iot.png&size=auto 90%
 
-@title[Ark-IoT: HackPrinceton]
+# Ark-IoT: HackPrinceton
 
 ---?image=/img/opensource.png
 
@@ -15,3 +15,5 @@
 ---?image=/img/safe.png
 
 ---?image=/img/ship.png
+
+# Presented by Chris & Simon
