@@ -8,15 +8,39 @@
 # outline
 
 1. What is Blockchain
+- Encryption
+
 
 2. What is Ark
+- DPOS
+
 
 3. what is IoT
+- Define IoT
+  - Computing Power
+  - Increasing access to chips and consumer adoption
+  - Where is it currently used
+  - Where is it heading
+
+- Open source communities
+  - Open source hardware and explosion of libraries and projects
+  - Spread and evolution of ideas 
+
+- Communication & Encryption
+  - Decentralization
+  - Encryption
+  - Mesh
+  - IPFS
+  - Virtual Networks
+  - MQTT, BATMAN, misc protocols
+
 
 4. What are the possiblities
 
-
-
+- Potential Ark uses
+  - securing personal property
+  - managing files
+  - 
 
 # Demos
 
