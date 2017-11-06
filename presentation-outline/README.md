@@ -30,7 +30,13 @@
 
 Quicker, leaner, more efficient, more open.
 
+40B devices by 2020
+http://blog.aac.advantech.com/what-wll-industry-4.0-look-like-in-2025
+
   - Increasing access to chips and consumer adoption
+- Open source communities
+  - Open source hardware and explosion of libraries and projects
+  - Spread and evolution of ideas 
     - Arduino
     - Adafruit
       - Limor Fried
@@ -50,9 +56,7 @@ Quicker, leaner, more efficient, more open.
     - truly augmented reality
       - personal, smart, secure, efficient
 
-- Open source communities
-  - Open source hardware and explosion of libraries and projects
-  - Spread and evolution of ideas 
+
 
 - Communication & Encryption
   - Decentralization
