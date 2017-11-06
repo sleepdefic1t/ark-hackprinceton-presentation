@@ -17,9 +17,12 @@
 
 3. what is IoT
 - Define IoT
-  - Computing Power
+
+
+- Computing Power
+
 | year | name | cpu | ram | extras | price |
-|:--- |:--- |:--- |:--- |:--- | :---: |
+|:--- |:--- |:--- |:--- |:--- |:--- |
 | 1974 | MITS Altair 8800 | 2 MHz | 256 bytes to 64K | | $439<br>$621 asbl |
 | 2012 | Raspberry Pi/ZeroW | Quad Core 1.2GHz/1GH | 1gb/512MB | 802.11 b/g/n - BLE | $35/$10/($5)
 | 2014 | ESP8266 | 80 MHz (default) or 160 MHz | 64 KiB instruction 96 KiB data | 802.11 b/g/n | $3 / $10-$15 |
