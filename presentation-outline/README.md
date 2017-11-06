@@ -39,9 +39,16 @@ Quicker, leaner, more efficient, more open.
     - Companies like FB & Amazon are exist bc of FOSS
 
   - Where is it currently used
+    - Any modern Android or iOS Device
+    - Fitbit, Apple Watch
+    - health
+    - Traffic
+    - Weather
+    - Monitoring structural integrity roads, bridges, buildings
 
   - Where is it heading
-    - truly augment reality
+    - truly augmented reality
+      - personal, smart, secure, efficient
 
 - Open source communities
   - Open source hardware and explosion of libraries and projects
