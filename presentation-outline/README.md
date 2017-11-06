@@ -18,9 +18,27 @@
 3. what is IoT
 - Define IoT
   - Computing Power
+| year | name | cpu | ram | extras | price |
+|:--- |:--- |:--- |:--- |:--- | :---: |
+| 1974 | MITS Altair 8800 | 2 MHz | 256 bytes to 64K | | $439<br>$621 asbl |
+| 2012 | Raspberry Pi/ZeroW | Quad Core 1.2GHz/1GH | 1gb/512MB | 802.11 b/g/n - BLE | $35/$10/($5)
+| 2014 | ESP8266 | 80 MHz (default) or 160 MHz | 64 KiB instruction 96 KiB data | 802.11 b/g/n | $3 / $10-$15 |
+| 2016 | ESP32 | 160 or 240 MHz | 520 KiB SRAM | 802.11 b/g/n/e/i - BLE w/routing | $8/ $15-$20 |
+
+Quicker, leaner, more efficient, more open.
+
   - Increasing access to chips and consumer adoption
+    - Arduino
+    - Adafruit
+      - Limor Fried
+        - "tutorial company"
+    - Raspberry Pi Foundation
+    - Companies like FB & Amazon are exist bc of FOSS
+
   - Where is it currently used
+
   - Where is it heading
+    - truly augment reality
 
 - Open source communities
   - Open source hardware and explosion of libraries and projects
